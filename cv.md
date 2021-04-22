@@ -25,9 +25,6 @@ C++(basics), Java Core, HTML
 
 
 
-## Code examples
-
-
 ## Experience
 -Some exercises from books : 
 Philisophy of Java, Java EPAM Blinov 2020, C++ Programming language.
